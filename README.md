@@ -4,9 +4,12 @@ Um exercício com o flutter para criação de um aplicativo de lista de tarefas.
 
 ## Detalhes a considerar
 
-Deixo claro que não sou da área de programação, e mesmo assim, consegui fazer este exercício. Portanto, descosidere boas práticas entre outras coisas.
+Deixo claro que não sou da área de programação, e mesmo assim, consegui fazer este exercício. Portanto, desconsidere as boas práticas entre outras coisas.
 
-##
+## As telas
+
+![lista1](https://user-images.githubusercontent.com/55671798/81412226-edea8100-9119-11ea-8998-8c0b22c1c082.png)
+
 
 ## Agradecimento e referências
 
