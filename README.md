@@ -13,7 +13,7 @@ Deixo claro que não sou da área de programação, e mesmo assim, consegui faze
 
 ## Agradecimento e referências
 
-Agradeço o conteúdo disponibilizado e a didática apresentada, pois sem essas seria um caminho difícil de percor
+Agradeço o conteúdo disponibilizado e a didática apresentada, pois sem essas seria um caminho difícil de percorrer.
 
 reso coder moor.
 https://www.youtube.com/watch?v=zpWsedYMczM
